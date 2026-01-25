@@ -1,0 +1,73 @@
+[33m8de7f78[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Nuevo intento de menus
+[33m6592e7a[m Primeras páginas de ejemplo
+[33m22abef3[m Borré ejemplo
+[33ma2b6ccc[m Update README.md
+[33mb2c9dc7[m Update baseURL in config.toml
+[33m2e6e1c9[m Comment out theme configuration in config.toml
+[33mfe7a972[m Enable theme 'hello-friend-ng' in config
+[33md252ecd[m Update baseURL in config.toml
+[33mb170cf5[m Update baseURL in config.toml
+[33m530271e[m Comment out theme setting in config.toml (1)
+[33m6fa966a[m Uncomment theme setting in config.toml
+[33m70002bc[m Comment out theme setting in config.toml
+[33m8272ef6[m Add GitHub Actions workflow for Hugo deployment
+[33m17a4cba[m Saqué las cosas de exampleSite
+[33m1a0a16f[m Center only mainpage and 404
+[33ma03911c[m Remove Changelog (unused)
+[33mb13c54c[m Add buymeacoffee to docs
+[33m1486784[m Merge pull request #502 from Danilol69/add-bmac-support
+[33mbf67caa[m Revert "sort top menu items by identifier"
+[33m03112da[m Remove unused param
+[33m0c3c4d1[m Edit me.md
+[33m80d6149[m Add docs to submenu feature
+[33m1ffd87f[m Merge pull request #494 from NilsKrause/master
+[33mbab8423[m Merge pull request #493 from stdevel/481-fix-author-deprecation
+[33m08ab317[m Update prism
+[33m9ee2e66[m Merge pull request #512 from pfaj/patch-1
+[33mb6d4775[m Merge pull request #515 from daptheHuman/clean-and-update-supported-lang
+[33m258902d[m Merge pull request #503 from argorain/add-printables-icon
+[33m99d6748[m Merge pull request #514 from nikaltipar/empty_taxonomy
+[33m8226f64[m Merge pull request #511 from herzenschein/contrast-fix
+[33m67b8b0a[m Merge pull request #509 from netfab/disable-reading-time
+[33mc1aa926[m Make more cleaner and update solidity lang supported
+[33mf0f28ea[m Modify README for empty taxonomy WAR
+[33m679792c[m readme: update paginate example to support new version of hugo
+[33m2659ba1[m Fix contrast issue in code blocks on light mode
+[33md824fea[m Ability to disable reading time part on post info
+[33m9539a43[m Add Printables social icon
+[33mf870ab5[m Add Buy Me A Coffee (BMAC) SVG support
+[33mc37fc52[m feat: allow simple submenus
+[33mbd24791[m fix author deprecation issue
+[33m37fbce2[m Edit menu
+[33mb4559bf[m Fix rss
+[33m18524cd[m Merge pull request #455 from 497a/master
+[33m88cdc26[m Merge pull request #452 from ttybitnik/fix/blog-list-dates
+[33m871c36b[m Merge remote-tracking branch 'origin/master'
+[33m12fc237[m Merge pull request #454 from cortex3/master
+[33md17ec9c[m Fix deprecated warning
+[33m682ba35[m Fix deprecated warning
+[33mcd66f2b[m Style
+[33mf26481f[m Merge pull request #487 from TheGroundZero/patch-8
+[33m10a6c12[m Merge remote-tracking branch 'origin/master'
+[33mf59d82f[m Merge pull request #470 from kmfrick/repec-social
+[33m7b4f0ab[m Merge pull request #480 from Josde/fix-top-menu-ordering
+[33md60df1b[m Just style
+[33m0827420[m Update docs
+[33mba8cd5e[m Edit config
+[33me9a35d8[m Merge pull request #449 from kingthrillgore/socialicons
+[33m3b2bedc[m Merge pull request #472 from klercke/master
+[33m81ab252[m Merge pull request #453 from Aaron-Rumpler/tiktok
+[33m14d0b60[m Merge pull request #477 from 3willows/patch-1
+[33maa05977[m Merge pull request #486 from TheGroundZero/patch-7
+[33m0aabb89[m Fix config
+[33me58845d[m Merge pull request #485 from TheGroundZero/patch-5
+[33ma0b0a62[m Merge branch 'master' into patch-5
+[33me25f735[m Merge pull request #491 from embeddedpenguin/master
+[33m01b42b4[m fix deprecated use of .Site.GoogleAnalytics
+[33m09f5539[m Update head.html
+[33m1546e90[m Fix #482 - ToCSS
+[33me2bc011[m Fix #484
+[33m9877c70[m Fix #483
+[33me78a00e[m sort top menu items by identifier
+[33m1b3496f[m Remove $ from bash code snippet
+[33md3e7109[m add rss social icon
