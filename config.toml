@@ -65,7 +65,8 @@ disableHugoGeneratorInject = false
   enableThemeToggle = false
   enableSharingButtons = true
   enableReadingTime = true
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
+
 
   customCSS = []
   customJS  = []
