@@ -74,11 +74,12 @@ disableHugoGeneratorInject = false
   ]
 
   # Scripts que hacen la magia (JS)
-  customJS  = [
+    customJS  = [
     "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js",
     "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js",
-    "js/math-init.js"
+    "/js/math-init.js"   # <--- ¡Fíjate en la barra al inicio!
   ]
+
 
 
   [params.author]
