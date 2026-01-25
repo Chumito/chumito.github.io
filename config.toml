@@ -68,9 +68,18 @@ disableHugoGeneratorInject = false
   enableReadingTime = true
   enableGlobalLanguageMenu = false
 
+    # Estilos para que las matemáticas se vean bonitas (CSS)
+  customCSS = [
+    "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"
+  ]
 
-  customCSS = []
-  customJS  = []
+  # Scripts que hacen la magia (JS)
+  customJS  = [
+    "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js",
+    "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js",
+    "js/math-init.js"
+  ]
+
 
   [params.author]
     # OJO AQUÍ: Cambia esto por tu nombre real
