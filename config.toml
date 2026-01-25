@@ -1,6 +1,7 @@
 baseURL = "https://chumito.github.io/"
 title   = "Hello Friend NG"
 languageCode = "es" # Lo cambié a español para ti
+defaultContentLanguage = "es" 
 #theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
