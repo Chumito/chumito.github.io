@@ -136,17 +136,16 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier  = "about"
     name        = "Sobre mí"
-    url         = "/about/"     # Arreglado: Agregué la barra al inicio
-    hasChildren = true       
-  
+    url         = "https://chumito.github.io/about/"     # Dirección completa
+    hasChildren = true
   
   [[menu.main]]
-     identifier  = "me"
-     name        = "About Me"
-     url         = "/about/me/"  # Arreglado
-     parent      = "about"
+    identifier  = "me"
+    name        = "About Me"
+    url         = "https://chumito.github.io/about/me/"  # Dirección completa
+    parent      = "about"
 
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts/"      # Arreglado: Agregué la barra al inicio
+    url        = "https://chumito.github.io/posts/"      # Dirección completa
