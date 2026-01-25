@@ -157,3 +157,10 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "https://chumito.github.io/posts/"      # Dirección completa
+
+  [[menu.main]]
+    identifier = "materias"
+    name       = "Materias"  # O "Materia" si prefieres singular
+    url        = "https://chumito.github.io/materias/"
+    weight     = 30          # Esto asegura que aparezca después de "Posts"
+
