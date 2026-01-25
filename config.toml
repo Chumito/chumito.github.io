@@ -115,18 +115,25 @@ disableHugoGeneratorInject = false
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 [languages]
-  [languages.en]
+  # 1. Configuración ACTIVA: ESPAÑOL
+  # Al cambiar [languages.en] por [languages.es], le decimos que este es el idioma base.
+  [languages.es]
     weight    = 1
+    languageName = "Español"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.en.params]
-    subtitle  = "Hello Friend NG Theme"
+  
+  [languages.es.params]
+    subtitle  = "Bienvenida a mi web"
 
-  # He desactivado el francés para que no te moleste el botón "fr"
-  # [languages.fr]
+  # 2. Configuración FUTURA: INGLÉS (Apagada por ahora)
+  # Cuando quieras agregar inglés, solo borra los símbolos '#' de abajo.
+  
+  # [languages.en]
   #   weight    = 2
+  #   languageName = "English"
   #   copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # [languages.fr.params]
-  #   subtitle  = "Hello Friend NG Theme"
+  # [languages.en.params]
+  #   subtitle  = "Welcome to my website"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
 # MENÚ - Aquí es donde arreglamos los enlaces
